@@ -1,0 +1,9 @@
+[package]
+name = "extern_ctypes"
+version = "0.1.0"
+authors = ["panicbit <panicbit.dev@gmail.com>"]
+
+[lib]
+plugin = true
+
+[dependencies]
